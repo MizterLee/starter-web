@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lee Phillips   lee.phillips@altamiracorp.com   no_twitter
 
 # THANKS
 
