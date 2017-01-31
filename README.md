@@ -22,3 +22,4 @@ Please fork this repository and then issue Pull Request
 ## Copyright
 
 2014 Git.Training
+Blah blah blah
