@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Git and Github together.
-Adding more text
+Adding more text, and more changes from myfeature branch too.
 
 ## Introduction
 
